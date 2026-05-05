@@ -18,7 +18,7 @@ pip install -r requirements.txt
 streamlit run translator.py
 
 ## 📸 Screenshot
-![App Screenshot](<img width="920" height="865" alt="Screenshot 2026-05-05 104403" src="https://github.com/user-attachments/assets/2da95fa7-b5c1-48b4-9682-f3b8248b077d" />)
+![App Screenshot](https://github.com/Harshit528/multilanguage-translator/blob/main/Screenshot%202026-05-05%20104403.png)
 
 ## 🧰 Built With
 - Python 3
